@@ -1,8 +1,8 @@
-#Project 2: Futoshiki
-####By Rihui Zheng and Kyle Lin
-####rz1276 and kl3399
+# Project 2: Futoshiki
+#### By Rihui Zheng and Kyle Lin
+#### rz1276 and kl3399
 
-##Instructions:
+## Instructions:
 
 1. Open a command prompt
 2. Make sure you have a recent version of python installed
